@@ -454,7 +454,7 @@ border: 5px solid #1A1A1A;
 @media (min-width: 767px) {
   
   .button-2 {
-    margin-left: -1000px;
+    text-align:left;
   }
   
   .heading {
@@ -520,7 +520,6 @@ h2{
     padding-right: 200px;
   }
 
-  
 }
 
 
