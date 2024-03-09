@@ -481,6 +481,9 @@ border: 5px solid #1A1A1A;
   margin-right: 100px;
 }
 
+h2{
+  text-align:left;
+}
 
 .button-2{
  transform: translate(-900px,0);
