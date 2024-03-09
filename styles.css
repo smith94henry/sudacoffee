@@ -451,7 +451,11 @@ border: 5px solid #1A1A1A;
   font-size: 17px;
 }
 
-@media (min-width: 767px) { 
+@media (min-width: 767px) {
+  
+  .button-2 {
+    margin-left: 200px;
+  }
   
   .heading {
     display:none;
@@ -486,10 +490,6 @@ h2{
   margin-left: 10%;
 }
 
-.button-2{
- transform: translate(-900px,0px);
- margin-bottom: 200px;
-}
 
 .component p{
   text-align: left;
