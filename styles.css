@@ -332,13 +332,13 @@ box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
   background: #F4F4F4;
   box-shadow: 1px 2px 4px 1px rgba(0, 0, 0, 0.20);
   color: #1A1A1A;
-text-align: center;
-font-size: 16px;
-font-family: Gilroy-Light;
-font-style: normal;
-font-weight: 400;
-line-height: 130%;
-}
+  text-align: center;
+  font-size: 16px;
+  font-family: Gilroy-Light;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 130%;
+  }
 
 .burger {
   cursor: pointer;
