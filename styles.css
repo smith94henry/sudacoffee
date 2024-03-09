@@ -487,6 +487,7 @@ border: 5px solid #1A1A1A;
 }
 
 component-small h2 {
+  text-align: center;
   margin-left: -100px;
 }
 
