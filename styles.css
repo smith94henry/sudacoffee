@@ -454,7 +454,8 @@ border: 5px solid #1A1A1A;
 @media (min-width: 767px) {
   
   .button-2 {
-    text-align:left;
+    margin-left: -1000px;
+    
   }
   
   .heading {
