@@ -516,8 +516,8 @@ h2{
   .default {
     text-align:left;
     font-size: 20px;
-    padding-left: 180px;
-    padding-right: 200px;
+    padding-left: 100px;
+    padding-right: 100px;
   }
 
 }
