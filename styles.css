@@ -454,7 +454,7 @@ border: 5px solid #1A1A1A;
 @media (min-width: 767px) {
   
   .button-2 {
-    margin-left: 200px;
+    margin-left: -1000px;
   }
   
   .heading {
@@ -487,7 +487,7 @@ border: 5px solid #1A1A1A;
 
 h2{
   text-align: left;
-  margin-left: 10%;
+  margin-left: 7%;
 }
 
 
@@ -496,11 +496,6 @@ h2{
   font-size: 20px;
   margin-left: 65px;
 }
-.default {
-  font-size: 20px;
-  margin-left: -80px;
-  text-align: left;
-}  
 
 .desktop-image{
   margin-top: 40px;
@@ -520,7 +515,7 @@ h2{
 }
   .default {
     font-size: 20px;
-    padding-left: 200px;
+    padding-left: 180px;
     padding-right: 200px;
   }
 
