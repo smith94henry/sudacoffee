@@ -489,6 +489,7 @@ border: 5px solid #1A1A1A;
 
 .button-2{
  margin-left: -340px;
+ transform: translate(-200,00);
  margin-bottom: 200px;
 }
 
