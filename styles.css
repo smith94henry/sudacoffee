@@ -229,11 +229,11 @@ footer ul {
 }
 
 footer a {
-color:#F4F4F4
-font-family: 'gilroy-light', sans-serif;
-list-style-type: none;
-text-decoration: underline;
-text-underline-offset: 5px;
+  font-family: 'gilroy-light', sans-serif;
+  color:#F4F4F4;  
+  list-style-type: none;
+  text-decoration: underline;
+  text-underline-offset: 5px;
 margin-top:5px;
 margin-bottom: 5px;
 }
